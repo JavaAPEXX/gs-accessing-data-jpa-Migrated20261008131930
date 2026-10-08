@@ -1,0 +1,7 @@
+{
+  "job_id": "job_e1875a981b82",
+  "sourceRepoUrl": "https://github.com/spring-guides/gs-accessing-data-jpa",
+  "targetJavaVersion": "25.0.2",
+  "status": "MIGRATION_CHECKPOINT",
+  "migration_date": ""
+}
